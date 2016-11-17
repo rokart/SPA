@@ -1,0 +1,22 @@
+[0309/090937:ERROR:gpu_info_collector_win.cc(102)] Can't retrieve a valid WinSAT assessment.
+[0309/090937:ERROR:gl_surface_egl.cc(133)] eglInitialize failed with error UNKNOWN
+[0309/090937:ERROR:gl_surface_win.cc(97)] GLSurfaceEGL::InitializeOneOff failed.
+[0309/090948:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0309/090948:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0309/090948:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0309/090949:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0309/091001:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0309/091025:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0309/091324:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0309/091730:INFO:CONSOLE(0)] "Uncaught TypeError: Cannot read property 'nodeType' of undefined,4", source: about:docKey-15 (0)
+[0309/091730:INFO:CONSOLE(4)] "Uncaught TypeError: Cannot read property 'nodeType' of undefined", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/2009947/AppData/Local/Temp/Adobe/Edge%20Animate%205.0.1/Untitled-1/edge_includes/jquery-2.0.3.min.js (4)
+[0309/091944:INFO:CONSOLE(1)] "TypeError: Cannot set property 'an_originalId' of undefined
+    at Function.d.data (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/2009947/AppData/Local/Temp/Adobe/Edge%20Animate%205.0.1/Untitled-1/edge_includes/edge.5.0.1.min.js:74:145)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:25)
+    at <anonymous>:0:59", source:  (1)
+[0309/091944:INFO:CONSOLE(1)] "TypeError: Cannot set property 'an_originalId' of undefined
+    at Function.d.data (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/2009947/AppData/Local/Temp/Adobe/Edge%20Animate%205.0.1/Untitled-1/edge_includes/edge.5.0.1.min.js:74:145)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:25)
+    at <anonymous>:0:59", source:  (1)
+[0309/101935:INFO:CONSOLE(0)] "Uncaught TypeError: Cannot read property 'nodeType' of undefined,0", source: about:docKey-20528 (0)
+[0309/101935:INFO:CONSOLE(0)] "Uncaught TypeError: Cannot read property 'nodeType' of undefined", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/2009947/AppData/Local/Temp/Adobe/Edge%20Animate%205.0.1/Untitled-1/edge_includes/jquery-2.0.3.min.js (0)

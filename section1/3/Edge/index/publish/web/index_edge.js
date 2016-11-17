@@ -1,0 +1,7 @@
+
+(function(compId){var _=null,y=true,n=false,l='normal',x10='nowrap',x11='rgba(255,255,255,1)',x3='5.0.1.386',p='px',x='text',x9='break-word',x1='5.0.1',x2='5.0.0',x5='24',x7='400',x8='none solid rgb(0, 163, 174)',x6='Arial, Helvetica, sans-serif',i='none';var s4="Ne scripta omnesque voluptatum eam:<br><br>•        Te mea odio diam dolorem<br><br>Ei pri similique intellegam:<br><br>•        Fierent volutpat erroribus ea sit <br><br>•        At nam zril affert, ius illum latine et, vix porro laoreet <br><br>•        At lorem menandri erroribus nam <br><br>•        Veri lorem fastidii mei eu, in per congue adipisci<br>";var im='images/',aud='media/',vid='media/',js='js/',fonts={},opts={'gAudioPreloadPreference':'auto','gVideoPreloadPreference':'auto'},resources=[],scripts=[],symbols={"stage":{v:x1,mv:x2,b:x3,stf:i,cg:i,rI:n,cn:{dom:[{id:'Text2',t:x,r:['55px','207px','auto','auto','auto','auto'],text:s4,align:"left",n:[x6,[x5,p],"rgba(0,0,0,1.00)",x7,x8,l,x9,x10]}],style:{'${Stage}':{isStage:true,r:[undefined,undefined,'1200px','800px'],overflow:'hidden',f:[x11]}}},tt:{d:0,a:y,data:[]}}};AdobeEdge.registerCompositionDefn(compId,symbols,fonts,scripts,resources,opts);})("EDGE-2176584");
+(function($,Edge,compId){var Composition=Edge.Composition,Symbol=Edge.Symbol;Edge.registerEventBinding(compId,function($){
+//Edge symbol: 'stage'
+(function(symbolName){})("stage");
+//Edge symbol end:'stage'
+})})(AdobeEdge.$,AdobeEdge,"EDGE-2176584");

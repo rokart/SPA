@@ -1,0 +1,165 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 13-Feb-2015, 15:16:51
+    Author     : 2009947
+*/
+html, body, .wrap .allwrap{
+    height: 100%;
+}
+
+html, body {
+    overflow: hidden;
+    position: relative;
+}
+
+.infinite-item {
+    background: none repeat scroll 0 0 #ccc;
+    margin: 10px;
+    padding: 50px;
+}
+.show {
+    display: block;
+    overflow: hidden;
+}
+.allwrap {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+
+}
+
+.backbut {
+    border: 1px solid #ff0000;
+    margin: 20px auto;
+    padding: 10px;
+    position: fixed;
+    right: 50px;
+    text-align: center;
+    width: 100px;
+    z-index: 100000;
+    cursor: pointer;
+    display: none;
+}
+
+.menuwrap {
+    /*    background-image: url("../img/Main_Nav_1.jpg");*/
+    background-position: center top;
+    background-size: cover;
+    height: 100%;
+    position: absolute;
+    width: 100%;
+    z-index: 10;
+    overflow: hidden;
+}
+.menutextwrap{
+    position: absolute;
+    right: 100px;
+    top: 100px;
+    width: 20%;
+}
+
+.buttwrapp {
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+        z-index: 100;
+
+}
+.buttwrapp ul {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.contentwrap{
+    height: 100%;
+    overflow-y: scroll;
+    position: absolute;
+    top: 100%;
+    width: 100%;
+}
+
+.menutext {
+    background: none repeat scroll 0 0 #ccc;
+    height: 100%;
+    position: relative;
+    top: 0;
+    width: 140px;
+    z-index: -1;
+    left: 1px;
+    //  display: none;
+}
+
+
+.big {
+    color: #666666;
+    font-family: "Arial",sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    left: 0;
+    padding: 5px;
+    position: absolute;
+    text-align: left;
+}
+
+.start {
+    bottom: 5px;
+    color: #913f8f;
+    display: block;
+    font-family: "Arial",sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 0 5px;
+    position: absolute;
+    text-align: left;
+    width: 100%;
+}
+
+.title {
+    border-bottom: 2px solid #ffe600;
+    font-size: 2em;
+    left: 40px;
+    position: absolute;
+    top: 40px;
+}
+.buttwrapp ul li {
+    background-image: url("../img/buttons.png");
+    background-repeat: no-repeat;
+    cursor: pointer;
+    display: inline-block;
+    height: 93px;
+    list-style: outside none none;
+    margin: 0 1% 2%;
+    width: 142px;
+}
+.buttwrapp ul li:nth-child(2) {
+    background-position: -143px 0;
+}
+.buttwrapp ul li:nth-child(3) {
+    background-position: -285px 0;
+}
+.buttwrapp ul li:nth-child(4) {
+    background-position: -427px 0;
+}
+.buttwrapp ul li:nth-child(5) {
+    background-position: -569px 0;
+}
+.buttwrapp ul li:nth-child(6) {
+    background-position: -712px 0;
+}
+
+.buttwrapp ul li:nth-child(7) {
+    background-position: -855px 0;
+}
+
+.edgeLoad-EDGE-487945 { visibility:hidden; }
+
+.center-wrapper{
+    /*    z-index: -5 !important;*/
+    overflow: hidden;
+}

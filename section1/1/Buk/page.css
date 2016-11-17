@@ -1,0 +1,40 @@
+
+.growthwrap {
+    background-image: url("1.jpg");
+    background-size: cover;
+    height: 100%;
+    position: absolute;
+    width: 100%;
+    
+}
+.blackbg{
+    position: relative;
+}
+
+/*.blackbg::after {
+    background: none repeat scroll 0 0 #000;
+    content: " ";
+    display: block;
+    height: 100%;
+    opacity: 0.9;
+    padding: 10px;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}*/
+.cats{
+    position: relative;
+    z-index: 5;
+    padding: 10px;
+/*    color: #fff;*/
+}
+
+.page1left {
+    float: left;
+    width: 400px;
+}
+.title2{
+        background-image: url("titlebg.png");
+        background-repeat: no-repeat;
+
+}
