@@ -169,21 +169,7 @@ jQuery(document).ready(function ($) {
         }
     }
 
-    function stopedge() {
-        // $('#innerwrap').empty();
-//        if (AdobeEdge !== null) {
-//            AdobeEdge = null;
-//        }
-//
-//        if (AdobeEdge !== null) {
-//            AdobeEdge.bootstrapCallback(function (compId) {
-//                AdobeEdge.getComposition(compId).stage.stopAll();
-//            });
-//            if (AdobeEdge !== null) {
-//                AdobeEdge = null;
-//            }
-//        }
-    }
+
 
 
     var countUp = 0;
@@ -213,75 +199,3 @@ jQuery(document).ready(function ($) {
     });
 
 });
-
-
-
-
-
-
-
-
-
-//    var allwrap = $('.allwrap');
-//
-//
-//    allwrap.find('.buttwrapp ul li').on('click', function () {
-//        var sectionId = $(this).index();
-//        var section = allwrap.find('section');
-//        allwrap.find('div.backbut').fadeIn(2000);
-//        section.eq(sectionId).addClass('show');
-//        allwrap.animate({top: '-100%'}, 1000, 'easeOutQuint');
-//    });
-//
-//    allwrap.find('div.backbut').on('click', function () {
-//        $(this).fadeOut('fast');
-//        allwrap.find('section').removeClass('show');
-//        allwrap.animate({top: '0%'}, 1000, 'easeOutQuint');
-//    });
-
-
-//    (function () {
-//        var video = document.getElementById('myID');
-//
-//        var endtime = 5;
-//
-//        video.addEventListener("timeupdate", function () {
-//            if (this.currentTime >= endtime) {
-//                this.pause();
-//            }
-//        }, false);
-//
-//        video.load();
-//        video.play();
-//        
-//    })();
-
-
-
-
-
-
-
-
-//        $(window).unload(saveSettings);
-//        loadSettings();
-//
-//    function loadSettings() {
-//        $('#height').val(localStorage.height);
-//        $('#weight').val(localStorage.weight);
-//        $('#dateOfBirth').val(localStorage.dateOfBirth);
-//        $('input[value="' + localStorage.gender + '"]').prop('checked', true);
-//        $("#sportive").val(localStorage.sportive);
-//    }
-//
-//    function saveSettings() {
-//        localStorage.height = $('#height').val();
-//        localStorage.weight = $('#weight').val();
-//        localStorage.dateOfBirth = $('#dateOfBirth').val();
-//        localStorage.sportive = $("#sportive").val();
-//        localStorage.gender = $('input[type=radio]:checked').val();
-//    }
-
-//    setTimeout(function () {
-//        location.reload();
-//    }, 2000);
